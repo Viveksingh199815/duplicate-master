@@ -1,0 +1,5 @@
+Text file which contain extra Git commands
+
+1.git log
+2.rm -rf .git
+3.git clone url name
