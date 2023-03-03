@@ -1,0 +1,6 @@
+This the first git file which contains basic commands
+
+1.git init
+2.git status
+3.git add --a
+4.git commit -m "Commit Message"
