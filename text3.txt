@@ -1,0 +1,4 @@
+Push and pull Commands of git
+
+git remote
+git push -u orgin master
