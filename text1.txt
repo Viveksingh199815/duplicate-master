@@ -5,3 +5,4 @@ This the first git file which contains basic commands
 3.git add --a
 4.git commit -m "Commit Message"
 5.git log
+5.cd
