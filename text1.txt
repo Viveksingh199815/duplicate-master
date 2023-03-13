@@ -6,3 +6,4 @@ This the first git file which contains basic commands
 4.git commit -m "Commit Message"
 5.git log
 5.cd
+6.To remove the existing GIT rm -rff .git
